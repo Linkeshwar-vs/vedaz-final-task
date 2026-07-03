@@ -175,10 +175,7 @@ python scripts/preprocessing/deep_audit.py data/raw/dataset.json
 
 python scripts/preprocessing/prepare_dataset.py data/raw/dataset.json
 
-python scripts/preprocessing/verify_dataset.py ^
-data/processed/cleaned_dataset.json ^
-data/processed/training_dataset.jsonl ^
-data/processed/validation_dataset.jsonl
+python scripts/preprocessing/verify_dataset.py data/processed/cleaned_dataset.json data/processed/training_dataset.jsonl data/processed/validation_dataset.jsonl
 ```
 
 > **Note:** Replace `^` with `\` on Linux/macOS.
