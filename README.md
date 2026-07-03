@@ -4,6 +4,7 @@ This repository contains my solution for the Vedaz AI technical assessment.
 
 Objective : To fine-tune **Qwen2.5-1.5B-Instruct** on the provided conversational dataset while preserving the model's safety behaviour and adapting it to the Vedaz assistant style.
 
+I kept inference simple as the objective of the assessment was to demonstrate the fine-tuning pipeline to showcase what the LoRA adapter had learned. In a production deployment, I would combine the fine-tuned model with a strong system prompt, targeted few-shot examples for difficult cases, and inference-time guardrails to achieve more consistent Vedaz-specific behavior.
 
 ## Requirements
 
