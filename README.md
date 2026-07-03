@@ -28,6 +28,16 @@ This directory contains:
 - tokenizer.json
 - tokenizer_config.json
 
+
+Training reports and verification results are available in the `reports/` directory, including:
+
+- Dataset audit
+- Dataset verification
+- Environment checks
+- Adapter verification
+- Evaluation metrics
+- Training metrics
+
 ## Project Structure
 
 ```
