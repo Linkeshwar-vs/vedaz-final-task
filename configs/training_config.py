@@ -1,4 +1,3 @@
-"""Training configuration."""
 from transformers import TrainingArguments
 from config import OUTPUT_DIR
 
