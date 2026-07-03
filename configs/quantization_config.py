@@ -1,9 +1,3 @@
-"""
-quantization_config.py
-
-Centralized BitsAndBytes (QLoRA) configuration for the Vedaz AI project.
-"""
-
 import torch
 from transformers import BitsAndBytesConfig
 

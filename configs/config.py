@@ -1,18 +1,3 @@
-"""
-=========================================================
-VEDAZ AI
-Master Configuration (LOCKED)
-=========================================================
-
-This is the ONLY file that should be edited when changing
-training settings.
-
-All other modules import values from here.
-
-Author:
-Vedaz AI
-"""
-
 from pathlib import Path
 import torch
 

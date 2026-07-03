@@ -1,4 +1,3 @@
-"""LoRA configuration."""
 from peft import LoraConfig
 
 LORA_CONFIG = LoraConfig(
