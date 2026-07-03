@@ -44,7 +44,7 @@ VEDAZ-FINAL-TASK/
 │
 ├── configs/                 # Training, LoRA and quantization configurations
 ├── data/
-│   ├── raw/                 # Original dataset
+│   ├── raw/                 # Original dataset ( Provided for the task )
 │   └── processed/           # Cleaned dataset and train/validation splits
 │
 ├── outputs/                 # Trained adapters, evaluation results and transcripts
