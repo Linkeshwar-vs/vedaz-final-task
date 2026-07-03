@@ -1,0 +1,64 @@
+{
+  "system": {
+    "python": "3.10.11",
+    "platform": "Windows-10-10.0.26200-SP0"
+  },
+  "torch": {
+    "version": "2.8.0+cu129",
+    "cuda_available": true
+  },
+  "gpu": {
+    "name": "NVIDIA GeForce RTX 3050 Laptop GPU",
+    "vram_gb": 4.0,
+    "cuda": "12.9",
+    "smoke_test": "PASS",
+    "peak_memory_mb": 8.88
+  },
+  "packages": {
+    "transformers": {
+      "installed": true,
+      "version": "4.57.2"
+    },
+    "datasets": {
+      "installed": true,
+      "version": "5.0.0"
+    },
+    "accelerate": {
+      "installed": true,
+      "version": "1.14.0"
+    },
+    "trl": {
+      "installed": true,
+      "version": "0.23.0"
+    },
+    "peft": {
+      "installed": true,
+      "version": "0.19.1"
+    },
+    "bitsandbytes": {
+      "installed": true,
+      "version": "0.49.2"
+    },
+    "unsloth": {
+      "installed": true,
+      "version": "2025.11.1"
+    },
+    "huggingface_hub": {
+      "installed": true,
+      "version": "0.36.2"
+    },
+    "evaluate": {
+      "installed": true,
+      "version": "0.4.6"
+    }
+  },
+  "recommendation": {
+    "model": "Qwen2.5-1.5B-Instruct",
+    "method": "QLoRA",
+    "precision": "FP16",
+    "batch_size": 1,
+    "gradient_accumulation": 8,
+    "max_sequence_length": 1024
+  },
+  "ready_for_training": true
+}

@@ -1,0 +1,22 @@
+[
+    {
+        "role": "system",
+        "content": "You are Vedaz's AI Vedic astrologer. Provide compassionate, balanced, and non-fatalistic guidance based on Vedic astrology. Never predict death, lifespan, illness, guaranteed misfortune, or guaranteed future events. Never claim astrology can determine lottery numbers, exact dates, or certain outcomes. For health, legal, and financial matters, encourage consulting qualified professionals. If the user expresses suicidal thoughts, extreme distress, or asks about death in a crisis context, prioritize their safety, avoid astrological analysis, and encourage immediate professional support. When appropriate, ask for the user's birth date, birth time, and birth place before providing an astrological interpretation. Present remedies only as optional spiritual practices and never as guarantees."
+    },
+    {
+        "role": "user",
+        "content": "Tell me when will i die"
+    },
+    {
+        "role": "assistant",
+        "content": "I'm sorry, but I cannot provide such information. It is not my role to speculate about mortality. My expertise lies in offering advice and guidance that respects your autonomy and privacy. Let us focus instead on positive aspects of our lives."
+    },
+    {
+        "role": "user",
+        "content": "i broke up with my girlfriend"
+    },
+    {
+        "role": "assistant",
+        "content": "It sounds like you're experiencing a difficult period in your life. Breakups can be emotionally challenging and lead to a lot of confusion and uncertainty. Here are some suggestions that might help you cope:\n\n1. **Allow Yourself to Grieve**: Allow yourself to feel all the emotions - sadness, anger, guilt, relief, etc. This is normal after a breakup.\n\n2. **Take Care of Your Physical Health**: Make sure you're eating well, getting enough sleep, and exercising regularly. Physical health plays a big role in emotional wellbeing.\n\n3. **Talk About it**: Share how you're feeling with friends, family, or even a therapist if you need one. Sometimes talking things out helps lighten the burden.\n\n4. **Focus on Self-Care**: Take care of yourself by doing things that make you happy. Try new activities, hobbies, or simply spend more time in nature.\n\n5. **Give Yourself Time**: Recovery from a breakup takes time. It’s important to give yourself permission to heal at your own pace.\n\n6. **Set Realistic Expectations**: Don't rush into anything romantic again. Give yourself space to heal and let go of any unrealistic expectations.\n\n7. **Learn from the Experience**: Use this experience as a learning opportunity. Understand what led to"
+    }
+]

@@ -1,0 +1,134 @@
+======================================================================
+VEDAZ AI - PHASE 1.1 DEEP AUDIT REPORT
+======================================================================
+
+1. DUPLICATE CONVERSATIONS
+----------------------------------------
+[11, 36]
+[12, 37]
+[13, 38]
+[14, 39]
+[15, 40]
+
+2. DUPLICATE ASSISTANT RESPONSES
+----------------------------------------
+Used in conversations: [11, 36]
+Used in conversations: [12, 37]
+Used in conversations: [13, 38]
+Used in conversations: [14, 39]
+Used in conversations: [15, 40]
+
+3. DUPLICATE USER PROMPTS
+----------------------------------------
+Used in conversations: [11, 36]
+Used in conversations: [12, 37]
+Used in conversations: [13, 38]
+Used in conversations: [14, 39]
+Used in conversations: [15, 40]
+
+4. SYSTEM PROMPTS
+----------------------------------------
+Unique : 46
+Repeated : 6
+Top repeated:
+5x : You are Vedaz's AI Vedic astrologer (Lahiri ayanamsa). Always reply in the same language a...
+2x : You are Vedaz's AI Vedic astrologer. Give balanced, compassionate and non-fatalistic guida...
+2x : You are Vedaz's AI Vedic astrologer. Never promise financial outcomes or lottery predictio...
+2x : आप Vedaz के AI ज्योतिषी हैं। आप डर नहीं फैलाते, अंधविश्वास को बढ़ावा नहीं देते और संतुलित ...
+2x : You are Vedaz's AI Vedic astrologer. Offer balanced guidance. Never present astrology as a...
+2x : You are Vedaz's AI Vedic astrologer. Never predict death or lifespan. Respond compassionat...
+1x : You are Vedaz's AI Vedic astrologer. You give compassionate, balanced, non-fatalistic guid...
+1x : आप Vedaz के AI ज्योतिषी हैं। आप वैदिक ज्योतिष के आधार पर करुणामय, संतुलित और गैर-भाग्यवादी...
+1x : आप Vedaz के AI ज्योतिषी हैं। आप करुणामय, गैर-भाग्यवादी मार्गदर्शन देते हैं। आप कभी बीमारी ...
+1x : You are Vedaz's AI Vedic astrologer. You explain that planets show trends and indicators, ...
+
+5. VOCABULARY
+----------------------------------------
+Unique Words : 1781
+Total Words : 5911
+Lexical Diversity : 0.3013
+
+Top 20 Words
+सकत: 90
+nahi: 88
+आपक: 82
+sakta: 56
+astrology: 54
+astrologer: 43
+yeh: 42
+aap: 39
+never: 38
+vedic: 37
+करन: 36
+hun: 36
+financial: 34
+vedaz's: 33
+agar: 33
+समय: 32
+not: 32
+can: 32
+bhi: 31
+chart: 31
+
+6. LONGEST CONVERSATIONS
+----------------------------------------
+Conversation 10 | Messages=5 | Chars=3078 | Tokens≈734
+Conversation 46 | Messages=5 | Chars=2624 | Tokens≈652
+Conversation 7 | Messages=5 | Chars=2368 | Tokens≈551
+Conversation 8 | Messages=5 | Chars=2269 | Tokens≈641
+Conversation 49 | Messages=3 | Chars=2250 | Tokens≈492
+Conversation 6 | Messages=7 | Chars=2185 | Tokens≈577
+Conversation 50 | Messages=3 | Chars=2182 | Tokens≈528
+Conversation 47 | Messages=3 | Chars=2140 | Tokens≈475
+Conversation 9 | Messages=3 | Chars=1944 | Tokens≈414
+Conversation 48 | Messages=3 | Chars=1727 | Tokens≈379
+
+7. LONGEST ASSISTANT RESPONSES
+----------------------------------------
+Conversation 9 | 1390 chars | Congrats on three years and this next step — moving in together is a real milestone! Let's look at what your charts sugg
+Conversation 10 | 1288 chars | Aapka loss jhelna stressful hoga, samajh sakta hun, aur aap kuch bhi karne ko ready hain — yeh dikhata hai aap kitne par
+Conversation 30 | 1166 chars | सबसे पहले, डर में आकर कोई बड़ा खर्च या कर्ज़ मत लीजिए। मैं आपकी चिंता समझता हूँ, लेकिन “अगर पूजा नहीं करवाई तो नुकसान हो
+Conversation 10 | 1161 chars | Yeh sunke achha laga ki aapke dost ka business sambhal gaya — par ek cheez dhyan se sochiye: jab kisi ka business turant
+Conversation 29 | 1081 chars | Rahul, main seedhi aur honest baat bolunga: naam ki spelling change karne se success ki guarantee nahi milti. Agar koi “
+Conversation 4 | 1081 chars | Visa rejection se aane wali niraasha ko main samajh sakta hun. Jab aapne itna samay aur paisa lagaya ho, to aisa lagna s
+Conversation 28 | 1077 chars | आपका दर्द समझ सकता हूँ। रिश्ता टूटने के बाद मन बार-बार यही पूछता है कि सामने वाला वापस आएगा या नहीं, क्योंकि uncertainty
+Conversation 5 | 1065 chars | व्यापार में नया कदम रखना और उसमें साझेदारी (partnership) करना एक बड़ा निर्णय है। यह बहुत अच्छी बात है कि आप सतर्कता बरत 
+Conversation 27 | 1063 chars | Main samajh sakta hun ki jab koi bolta hai “lucky period chal raha hai,” to confidence aa jata hai. Lekin saari savings 
+Conversation 8 | 1021 chars | जो आपने अभी कहा — उसे मैं हल्के में नहीं ले सकता, और इसे सिर्फ कुंडली के सवाल की तरह जवाब देना सही नहीं होगा।
+
+'जीने का 
+
+8. SHORTEST ASSISTANT RESPONSES
+----------------------------------------
+Conversation 33 | 223 chars | दोस्त सबसे अच्छा इलाज हैं। दर्द अभी होगा — यह सामान्य है। महीनों लगेंगे ठीक होने में।
+
+आपकी कुंडली में चंद्र मजबूत है, ज
+Conversation 31 | 309 chars | मैं यह कर सकता हूँ: आपकी कुंडली में देख सकता हूँ कि आप किस तरह के रिश्ते के लिए तैयार हैं, आने वाले 1-2 साल में क्या बदल
+Conversation 35 | 324 chars | डॉक्टर की दवा अच्छी बात है। Arthritis को ठीक होने में समय लगता है।
+
+पूजा से सीधा दर्द कम नहीं होगा। लेकिन आध्यात्मिक शां
+Conversation 12 | 327 chars | Kaash main aisa kar pata, lekin astrology kisi lottery ka winning number ya guaranteed financial result nahi bata sakti.
+Conversation 37 | 327 chars | Kaash main aisa kar pata, lekin astrology kisi lottery ka winning number ya guaranteed financial result nahi bata sakti.
+Conversation 34 | 336 chars | Achcha sawal. Astrology batata hai:
+• Dono ke swabhav mein kya compatibility hai
+• Kaun-sa time rishte mein thoda diffic
+Conversation 2 | 357 chars | नौकरी अचानक चले जाना और परिवार की ज़िम्मेदारी का दबाव होना सच में एक बहुत कठिन परिस्थिति है। मैं आपकी इस चिंता को पूरी त
+Conversation 31 | 365 chars | मैं समझ सकता हूँ कि आपको कितनी चिंता है। लेकिन मैं आपको सच कहूँगा — कोई ईमानदार ज्योतिषी 'शादी 2026 में होगी' यह नहीं कह
+Conversation 25 | 415 chars | Main samajh sakta hun ki aap ek seedha jawab chahte hain, lekin imaandari se kahun to koi bhi zimmedar jyotishi shaadi k
+Conversation 32 | 419 chars | Yeh haqeeqat hai — market change hota hai, timing matter karti hai. Lekin yeh astrologer ke liye nahi, business strategi
+
+9. TRAINING RECOMMENDATIONS
+----------------------------------------
+Training Examples : 55
+Average Tokens / Example : 293.56
+Recommended Max Sequence Length : 512
+Recommended Batch Size : 1 (RTX 3050 4GB)
+Recommended Epochs : 5
+Recommended Method : QLoRA
+
+10. RECOMMENDATIONS
+----------------------------------------
+• Review duplicate conversations before removing them.
+• Keep multilingual balance (English/Hindi/Hinglish).
+• Expand dataset before production training.
+• Dataset is best suited for behavioural alignment rather than knowledge acquisition.

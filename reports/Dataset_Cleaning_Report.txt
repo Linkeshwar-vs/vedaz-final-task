@@ -1,0 +1,25 @@
+VEDAZ AI - PHASE 2 CLEANING REPORT
+========================================
+
+Loaded Conversations      : 55
+Duplicates Removed        : 5
+Invalid Removed           : 0
+Final Examples            : 50
+
+Training Examples         : 44
+Validation Examples       : 6
+
+Average Tokens            : 308.26
+Maximum Tokens            : 734
+Minimum Tokens            : 94
+
+Files Generated
+---------------
+cleaned_dataset.json
+training_dataset.jsonl
+validation_dataset.jsonl
+dataset_statistics.json
+
+Dataset Status
+--------------
+READY FOR QWEN SFT

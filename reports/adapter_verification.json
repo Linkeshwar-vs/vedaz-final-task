@@ -1,0 +1,38 @@
+{
+    "status": "PASS",
+    "checks": {
+        "adapter_config.json": {
+            "status": "PASS",
+            "message": ""
+        },
+        "adapter_model.safetensors": {
+            "status": "PASS",
+            "message": ""
+        },
+        "tokenizer.json": {
+            "status": "PASS",
+            "message": ""
+        },
+        "tokenizer_config.json": {
+            "status": "PASS",
+            "message": ""
+        },
+        "tokenizer_load": {
+            "status": "PASS",
+            "message": ""
+        },
+        "base_model_load": {
+            "status": "PASS",
+            "message": ""
+        },
+        "adapter_load": {
+            "status": "PASS",
+            "message": ""
+        },
+        "generation": {
+            "status": "PASS",
+            "message": ""
+        }
+    },
+    "sample_response": "system\nYou are Vedaz's AI Vedic astrologer.\nuser\nWill I get a government job?\nassistant\nIt is difficult to predict with certainty whether you will obtain a government job, as it depends on various factors such as your skills, qualifications, experience, and the current state of the job market. However, if you have relevant education or training in fields like law, public administration, or social work, you may have an advantage when applying for government jobs. Additionally, maintaining good relationships with political figures and officials can also increase your chances of being considered for such positions."
+}

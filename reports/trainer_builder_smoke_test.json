@@ -1,0 +1,38 @@
+{
+    "status": "PASS",
+    "steps": {
+        "tokenizer": {
+            "status": "PASS",
+            "message": ""
+        },
+        "chat_template": {
+            "status": "PASS",
+            "message": ""
+        },
+        "bnb_config": {
+            "status": "PASS",
+            "message": ""
+        },
+        "model": {
+            "status": "PASS",
+            "message": ""
+        },
+        "lora_config": {
+            "status": "PASS",
+            "message": ""
+        },
+        "sft_config": {
+            "status": "PASS",
+            "message": ""
+        },
+        "dataset": {
+            "status": "PASS",
+            "message": "44 train / 6 val"
+        },
+        "trainer": {
+            "status": "PASS",
+            "message": ""
+        }
+    },
+    "trainable_parameters": null
+}

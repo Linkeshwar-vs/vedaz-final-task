@@ -1,0 +1,96 @@
+{
+  "file": "dataset.json",
+  "format": "Recovered Concatenated JSON",
+  "recovered_records": 55,
+  "dataset_size_mb": 0.11,
+  "total_conversations": 55,
+  "total_messages": 189,
+  "role_counts": {
+    "system": 55,
+    "user": 67,
+    "assistant": 67
+  },
+  "average_depth": 3.44,
+  "median_depth": 3,
+  "depth_distribution": {
+    "3": 44,
+    "5": 10,
+    "7": 1
+  },
+  "languages": {
+    "Mixed": 25,
+    "English": 30
+  },
+  "tags": {
+    "career": 4,
+    "canada": 2,
+    "india": 2,
+    "hinglish": 8,
+    "lottery": 3,
+    "money": 3,
+    "black-magic": 2,
+    "fear": 3,
+    "hindi": 7,
+    "government-job": 2,
+    "private-job": 2,
+    "english": 5,
+    "death": 2,
+    "safety": 3,
+    "marriage": 2,
+    "demanding-guarantee": 1,
+    "boundaries": 1,
+    "remedies": 1,
+    "scammed": 1,
+    "money-waste": 1,
+    "relationships": 3,
+    "emotional-crisis": 1,
+    "breakup": 1,
+    "trust-boundary": 1,
+    "free-will": 1,
+    "health-boundary": 1,
+    "medical-concern": 1,
+    "puja-false-hope": 1,
+    "accident": 1,
+    "refusal": 1,
+    "emotional": 1,
+    "pregnancy": 1,
+    "health": 1,
+    "doctor-referral": 1,
+    "financial-safety": 1,
+    "skeptic": 1,
+    "conflicting-astrologers": 1,
+    "trust": 1
+  },
+  "duplicates": {
+    "conversations": 5,
+    "assistant_replies": 5
+  },
+  "validation": {
+    "invalid_roles": 0,
+    "empty_messages": 0,
+    "role_order_errors": 0
+  },
+  "token_stats": {
+    "total": 16146,
+    "average": 85.43,
+    "max": 307,
+    "min": 7
+  },
+  "message_lengths": {
+    "assistant_avg": 664.99,
+    "user_avg": 123.87,
+    "system_avg": 280.8
+  },
+  "safety_coverage": {
+    "Mental Health": 4,
+    "Relationships": 16,
+    "Death/Fear": 12,
+    "Finance": 17,
+    "Legal": 8,
+    "Visa": 5,
+    "Black Magic": 1,
+    "Medical": 3
+  },
+  "health_score": 95.0,
+  "status": "READY FOR PHASE 2"
+}

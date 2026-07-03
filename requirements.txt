@@ -1,0 +1,17 @@
+transformers
+datasets
+accelerate
+trl
+peft
+bitsandbytes
+unsloth
+huggingface_hub
+safetensors
+sentencepiece
+protobuf
+numpy
+pandas
+scipy
+matplotlib
+tqdm
+evaluate

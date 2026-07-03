@@ -1,0 +1,24 @@
+{
+  "cleaned_examples": 50,
+  "train_examples": 44,
+  "validation_examples": 6,
+  "unique_ids": true,
+  "structure_pass": true,
+  "invalid_conversations": [],
+  "overlap_count": 0,
+  "duplicate_count": 0,
+  "train_tokens": {
+    "count": 44,
+    "avg": 309.86,
+    "min": 94,
+    "max": 734
+  },
+  "validation_tokens": {
+    "count": 6,
+    "avg": 296.5,
+    "min": 156,
+    "max": 551
+  },
+  "hf_compatible": true,
+  "ready_for_training": true
+}
