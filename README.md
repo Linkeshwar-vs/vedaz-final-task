@@ -14,6 +14,20 @@ Objective : To fine-tune **Qwen2.5-1.5B-Instruct** on the provided conversationa
 
 ---
 
+## Outputs
+
+The trained artifacts are available under:
+
+outputs/
+└── qwen_lora/
+    └── final_adapter/
+
+This directory contains:
+- adapter_model.safetensors
+- adapter_config.json
+- tokenizer.json
+- tokenizer_config.json
+
 ## Project Structure
 
 ```
