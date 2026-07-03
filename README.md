@@ -36,7 +36,6 @@ Training reports and verification results are available in the `reports/` direct
 - Environment checks
 - Adapter verification
 - Evaluation metrics
-- Training metrics
 
 ## Project Structure
 
