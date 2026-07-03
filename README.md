@@ -232,5 +232,5 @@ For deployment, the trained LoRA adapter can be served together with the base Qw
 
 Linkeshwar VS
 
-BTech CSE AIML,
+BTech Computer Science Engineering (AIML)
 VIT Chennai
